@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Mexican Spanish strings for qbank_yetkinlik plugin.
+ * International Spanish strings for qbank_yetkinlik plugin.
  *
  * @package    qbank_yetkinlik
  * @copyright  2026 Hakan Çiğci {@link https://hakancigci.com.tr}
